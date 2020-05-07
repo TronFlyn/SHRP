@@ -126,3 +126,5 @@ SHRP_FONP_4 := /sys/class/leds/led:switch_0/brightness
 SHRP_FONP_5 := /sys/class/leds/led:switch_1/brightness
 SHRP_FLASH_MAX_BRIGHTNESS := 200
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
+
+ALLOW_MISSING_DEPENDENCIES=true
